@@ -20,20 +20,7 @@ This repository serves as a complete blueprint for building and deploying specia
 - **Cloud-Ready**: Designed for easy deployment to Streamlit Community Cloud, making the application accessible from anywhere.
 - **Reproducible Environment**: A requirements.txt file ensures that the development and deployment environments are consistent.
 
-## System Architecture
-
-The project follows a clear, multi-stage pipeline from raw data to a deployed, interactive application.
-
-```mermaid
-graph TD
-    A[Raw Data (.csv)] -->|PII Anonymization| B(Anonymized Data);
-    B -->|Data Preparation Script| C{Formatted Data (.jsonl)};
-    C -->|OpenAI API| D(Finetuning Job);
-    D --> E[Custom Finetuned Model];
-    E -->|Streamlit Frontend| F(Interactive Web App);
-    G[User] -->|Inputs Transcript| F;
-    F -->|Outputs SOAP Note| G;
-```
+# System Architecture
 
 ## Tech Stack
 
