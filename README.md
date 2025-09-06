@@ -1,5 +1,11 @@
 ## Project Vision & Overview
 
+**Live Demo Deployment:**  
+[Access the Application Here](https://arshad98333-healthcarechatbot-gpt3-5-finetuned-app-gqbbns.streamlit.app/)
+
+----------------------------------------------------------------------------------------------------------------
+
+
 In modern healthcare, clinicians spend a significant amount of time on administrative tasks, particularly on documenting patient encounters. This project addresses this challenge by leveraging a large language model (LLM) to automate the creation of SOAP (Subjective, Objective, Assessment, Plan) notes from unstructured, conversational medical transcripts.
 
 As an AI engineering project, the focus is not just on the model's output but on the entire end-to-end MLOps lifecycle:
