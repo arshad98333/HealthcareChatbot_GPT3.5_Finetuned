@@ -1,0 +1,1001 @@
+encounter_id,task_type,raw_transcript,medical_specialty,formatted_soap_note
+fb079092-e0b3-45b2-a470-16126b5d5a04,summarize_soap,"Age is 50, gender male. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with polydipsia (excessive thirst) and fatigue. On examination, findings include Fasting blood glucose of 180 mg/dL.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), unexplained weight loss.
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+091ebeae-5825-4b30-8d35-daf5b69d4abb,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and shortness of breath. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 46, gender female. On examination, findings include Peak flow at 60% of personal best.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+03c0af3f-a4d3-4448-b2d5-b228e2887423,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with dizziness and headaches. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include BP reading of 150/95 mmHg. Age is 53, gender male.",Cardiology,"S: Patient complains of headaches, feeling flushed.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+d2e14653-225d-4163-b621-d8bc244740d3,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Bilateral expiratory wheezes on exam. Age is 50, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with shortness of breath and persistent cough.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+18316baa-1e5a-4453-bc6b-b47880e6b047,summarize_soap,"Age is 25, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and persistent cough. On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+708de5e0-acdc-4d1c-a0a1-9f5fbc4f83a5,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and shortness of breath. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Irregularly irregular rhythm on EKG. Age is 75, gender female.",Cardiology,"S: Patient complains of dizziness, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+b9372114-6f2b-4926-8c57-fd31081553ec,summarize_soap,"Age is 26, gender male. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. On examination, findings include Positive TPO antibodies. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Patient presents with cold intolerance and dry skin.",Endocrinology,"S: Patient complains of cold intolerance, weight gain.
+O: Exam reveals Low Free T4, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+4593f7fb-e62f-4a6a-b698-7b32c0263847,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 57, gender female. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and shortness of breath.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+07f9fb23-7638-444c-a2a3-5268cc2d1574,summarize_soap,"Patient presents with fatigue and dizziness. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 66, gender female. On examination, findings include Heart rate of 120 bpm. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+fab150f2-92a4-471c-8109-fb7c1e09ba47,summarize_soap,"Patient presents with wheezing and shortness of breath. Age is 70, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include O2 saturation of 94% on room air.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+4a4b8a33-1af7-4491-971d-a59ab6f83b80,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and persistent cough. On examination, findings include Peak flow at 60% of personal best. Age is 62, gender female.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+709c75fa-f8bb-4554-996d-0509db3fac9d,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with palpitations and dizziness. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Age is 72, gender male. On examination, findings include Heart rate of 120 bpm.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+ab1ad2d2-956f-4e61-924d-1293d26eb5ef,summarize_soap,"Patient presents with chest tightness and chest tightness. Age is 28, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+b80f7d27-91ec-4ad7-b8d2-1b9305d405de,summarize_soap,"Patient presents with wheezing and chest tightness. Age is 48, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include O2 saturation of 94% on room air. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+6f6bbfd9-b185-4689-a1fd-08694376626d,summarize_soap,"On examination, findings include Normal EKG. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with no symptoms and headaches. Age is 67, gender male. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of dizziness, feeling flushed.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+3da2dc67-c3ed-41a3-8e38-a53d114f69ee,summarize_soap,"Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. On examination, findings include Elevated TSH of 12.5 mIU/L. Patient presents with weight gain and fatigue. Age is 51, gender female. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of constipation, cold intolerance.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+ddb609a4-b861-407d-94b9-b88620fa0bfd,summarize_soap,"On examination, findings include Peak flow at 60% of personal best. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 62, gender male. Patient presents with chest tightness and persistent cough.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+8cc9b47a-ad52-4db4-aa0c-f64274977a08,summarize_soap,"Patient presents with dizziness and fatigue. On examination, findings include Echocardiogram shows mild atrial enlargement. Age is 57, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of fatigue, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+138c3dbb-3080-4dc8-aa79-e3fc40f20f76,summarize_soap,"Patient presents with cold intolerance and fatigue. On examination, findings include Low Free T4. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 56, gender male. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of constipation, dry skin.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+b135023d-ed54-4826-a4f1-8dbea0a9994f,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Irregularly irregular rhythm on EKG. Patient presents with palpitations and shortness of breath. Age is 69, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of shortness of breath, dizziness.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+5229c70b-97ef-49b6-89b3-08e177bb6dfc,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 62, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and persistent cough. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+46675136-7dd8-4a6e-86fa-44379f987aba,summarize_soap,"Age is 33, gender male. Patient presents with chest tightness and wheezing. On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+006f7801-ffa5-4275-8938-394693ec6569,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with unexplained weight loss and unexplained weight loss. Age is 42, gender male. On examination, findings include HbA1c of 8.2%. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), polyuria (frequent urination).
+O: Exam reveals Urinalysis shows glycosuria, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+30dff391-752f-4eef-a796-d4382b2f8f56,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and dizziness. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 65, gender female. On examination, findings include Irregularly irregular rhythm on EKG.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+734c1943-2751-44fe-a684-fe0348280fd3,summarize_soap,"On examination, findings include BP reading of 150/95 mmHg. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with dizziness and feeling flushed. Age is 68, gender female.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+5409f316-620b-45e4-863f-d5c66f1e471e,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 45, gender male. On examination, findings include Fasting blood glucose of 180 mg/dL. Patient presents with polydipsia (excessive thirst) and unexplained weight loss. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+6ede9202-0482-4979-a5b2-eefd2d6332d4,summarize_soap,"On examination, findings include HbA1c of 8.2%. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 71, gender male. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with unexplained weight loss and fatigue.",Endocrinology,"S: Patient complains of fatigue, polyuria (frequent urination).
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+35bb173c-6a70-435f-b3df-a002abeabace,summarize_soap,"On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 51, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and persistent cough.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+537b2aed-ae13-4f10-8d2d-f67758171042,summarize_soap,"Patient presents with feeling flushed and headaches. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Age is 80, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include BP reading of 150/95 mmHg.",Cardiology,"S: Patient complains of headaches, feeling flushed.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+aa4743e3-b0c4-4f05-97f8-cd66b0798504,summarize_soap,"On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 33, gender female. Patient presents with chest tightness and chest tightness.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+f4c00ecd-a80e-4cd5-abf5-ff8bd8853098,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with fatigue and dizziness. Age is 54, gender female. On examination, findings include Heart rate of 120 bpm.",Cardiology,"S: Patient complains of fatigue, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+092af34e-407b-4d3b-bd68-e4903c8463e3,summarize_soap,"Age is 61, gender female. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with dizziness and no symptoms. On examination, findings include BP reading of 150/95 mmHg. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of feeling flushed, dizziness.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+a134b695-fe18-44d3-8eb1-8dcfc5687572,summarize_soap,"Age is 64, gender female. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. On examination, findings include Low Free T4. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Patient presents with constipation and fatigue.",Endocrinology,"S: Patient complains of weight gain, fatigue.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+999f00c6-ed01-413d-a5ec-d9f87a47c0ac,summarize_soap,"Age is 35, gender male. On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with persistent cough and shortness of breath. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of chest tightness, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+3b271011-9b88-4f52-927b-3921cc2bab58,summarize_soap,"Patient presents with palpitations and shortness of breath. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Heart rate of 120 bpm. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Age is 65, gender male.",Cardiology,"S: Patient complains of fatigue, shortness of breath.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+026045dd-248c-488e-93e8-a484b247a861,summarize_soap,"Age is 50, gender male. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with wheezing and shortness of breath.",Pulmonology,"S: Patient complains of chest tightness, shortness of breath.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+ed754eb0-1819-4235-b578-64f6c2a4c049,summarize_soap,"Patient presents with fatigue and fatigue. On examination, findings include Fasting blood glucose of 180 mg/dL. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 29, gender male.",Endocrinology,"S: Patient complains of unexplained weight loss, fatigue.
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+c7599c3b-42c8-492e-9c9a-62d0ef4add30,summarize_soap,"On examination, findings include Echocardiogram shows mild atrial enlargement. Patient presents with shortness of breath and shortness of breath. Age is 65, gender male. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+ee4ec777-cdb8-4244-891a-129b61b094a3,summarize_soap,"Age is 69, gender female. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with shortness of breath and fatigue. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Echocardiogram shows mild atrial enlargement.",Cardiology,"S: Patient complains of dizziness, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+d43607c2-43bf-4e8d-a57c-3ec305929caa,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include Fasting blood glucose of 180 mg/dL. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 30, gender female. Patient presents with fatigue and polydipsia (excessive thirst).",Endocrinology,"S: Patient complains of unexplained weight loss, polyuria (frequent urination).
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+13145a31-3541-4f3e-a5f1-eb147d999b5b,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Normal EKG. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Age is 70, gender male. Patient presents with headaches and no symptoms.",Cardiology,"S: Patient complains of dizziness, feeling flushed.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+ffdaa1b9-053c-4a2d-acbc-c8263db1f826,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Heart rate of 120 bpm. Age is 78, gender female. Patient presents with shortness of breath and dizziness.",Cardiology,"S: Patient complains of palpitations, shortness of breath.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+ff455c41-b904-4c7f-afd9-f2f2f1ce5e7d,summarize_soap,"Patient presents with headaches and no symptoms. Age is 67, gender female. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Slightly elevated creatinine.",Cardiology,"S: Patient complains of headaches, no symptoms.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+e09c72c4-501f-41d0-ad6d-84321252ddab,summarize_soap,"Age is 45, gender female. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include Fasting blood glucose of 180 mg/dL. Patient presents with unexplained weight loss and fatigue.",Endocrinology,"S: Patient complains of fatigue, polyuria (frequent urination).
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+58b1ed4b-5f77-4559-8f83-cfec893d26e3,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 74, gender female. On examination, findings include Elevated TSH of 12.5 mIU/L. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Patient presents with cold intolerance and fatigue.",Endocrinology,"S: Patient complains of constipation, fatigue.
+O: Exam reveals Low Free T4, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+e864e244-2345-447e-90bd-c516e064c423,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Age is 36, gender male. Patient presents with dizziness and shortness of breath. On examination, findings include Echocardiogram shows mild atrial enlargement. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+0ba9fe5e-1884-47d3-a502-8e0a988cc1ae,summarize_soap,"Patient presents with polyuria (frequent urination) and polyuria (frequent urination). Age is 31, gender female. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include Urinalysis shows glycosuria.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+4f016139-d9e3-4d46-ba84-5b1bb2727237,summarize_soap,"Patient presents with shortness of breath and persistent cough. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 70, gender female.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+9140b4d8-f24c-4af8-a5ef-49e7c13fa073,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and chest tightness. On examination, findings include Bilateral expiratory wheezes on exam. Age is 68, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+47f16ca3-d5f0-45a0-8813-0cbee5d65993,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 29, gender male. Patient presents with persistent cough and persistent cough. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of persistent cough, wheezing.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+9ff5f656-4170-41eb-9b9f-e7eafa2dde8b,summarize_soap,"Patient presents with fatigue and dizziness. Age is 69, gender female. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Heart rate of 120 bpm. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+d6877535-4e29-4d60-82e3-b238d9b63cc1,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with shortness of breath and persistent cough. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Peak flow at 60% of personal best. Age is 60, gender female.",Pulmonology,"S: Patient complains of shortness of breath, wheezing.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+4b775a45-8f40-43f2-9c27-370c5198a918,summarize_soap,"Patient presents with chest tightness and chest tightness. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 53, gender female.",Pulmonology,"S: Patient complains of chest tightness, persistent cough.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+80764a25-8144-4407-8e5b-1bdd8438678a,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 77, gender female. Patient presents with persistent cough and shortness of breath. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+66d92d10-6ea2-4667-b8de-adaeabb5ff2f,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include Fasting blood glucose of 180 mg/dL. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with fatigue and unexplained weight loss. Age is 45, gender female.",Endocrinology,"S: Patient complains of unexplained weight loss, fatigue.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+d9a2ad78-bd0a-4e6d-bfef-cd3440f0abd1,summarize_soap,"Age is 46, gender female. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with no symptoms and dizziness. On examination, findings include Slightly elevated creatinine. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of no symptoms, dizziness.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+cb0b31f4-201b-42b3-a2b6-de5c31fc5072,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with palpitations and dizziness. Age is 47, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Echocardiogram shows mild atrial enlargement.",Cardiology,"S: Patient complains of fatigue, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+a112cde2-fef7-4cdd-a160-1c324c5f06d8,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 34, gender female. Patient presents with polyuria (frequent urination) and polydipsia (excessive thirst). On examination, findings include Fasting blood glucose of 180 mg/dL.",Endocrinology,"S: Patient complains of polyuria (frequent urination), fatigue.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+f1871e75-3f89-467c-942c-0782df46067e,summarize_soap,"On examination, findings include Irregularly irregular rhythm on EKG. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 33, gender male. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and fatigue.",Cardiology,"S: Patient complains of palpitations, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+4afdf976-c7bc-49e4-8ec8-0e3141e2ebae,summarize_soap,"Patient presents with dry skin and cold intolerance. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 39, gender female. On examination, findings include Low Free T4. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of dry skin, weight gain.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+8d9cabbc-28f2-4b35-a32d-bebc5d9d5731,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Patient presents with fatigue and cold intolerance. On examination, findings include Elevated TSH of 12.5 mIU/L. Age is 44, gender male.",Endocrinology,"S: Patient complains of fatigue, weight gain.
+O: Exam reveals Low Free T4, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+0b322763-1478-4109-bc74-67bb104a3bd1,summarize_soap,"On examination, findings include HbA1c of 8.2%. Patient presents with polydipsia (excessive thirst) and polydipsia (excessive thirst). Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 50, gender female.",Endocrinology,"S: Patient complains of fatigue, polydipsia (excessive thirst).
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+2dec2e14-25a5-492d-9877-3848fcab2877,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Echocardiogram shows mild atrial enlargement. Age is 64, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and palpitations.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+340c4f74-aa03-4e6b-96a4-ac0655156353,summarize_soap,"Age is 56, gender male. On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with dizziness and palpitations. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, palpitations.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+4cfbd3b8-2adb-406d-a0b1-6b9ee8e193ce,summarize_soap,"Age is 42, gender female. On examination, findings include Irregularly irregular rhythm on EKG. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with shortness of breath and fatigue. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of fatigue, dizziness.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+2608dc7a-5f92-4e12-9c85-f032ebb5b609,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with polyuria (frequent urination) and polyuria (frequent urination). Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include HbA1c of 8.2%. Age is 57, gender female.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+8a146609-c4f7-43a4-abae-97b9f78788e5,summarize_soap,"Patient presents with headaches and feeling flushed. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Slightly elevated creatinine. Age is 69, gender female.",Cardiology,"S: Patient complains of headaches, no symptoms.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+5027ccfd-43b0-4b75-8060-b262c9eccb9d,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 80, gender female. On examination, findings include Irregularly irregular rhythm on EKG. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with dizziness and palpitations.",Cardiology,"S: Patient complains of dizziness, fatigue.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+bd2a12ab-2ecb-4c9d-86e1-7ae4c41a5ff3,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with fatigue and polydipsia (excessive thirst). Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include Urinalysis shows glycosuria. Age is 69, gender female.",Endocrinology,"S: Patient complains of polyuria (frequent urination), unexplained weight loss.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+0c69de45-2c42-4db1-94e1-a5b7ab1ea0e3,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 72, gender female. Patient presents with wheezing and shortness of breath. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+82ff1afa-1cb8-4ed7-a107-48e336a40a3d,summarize_soap,"On examination, findings include Slightly elevated creatinine. Age is 65, gender female. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with no symptoms and headaches. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of dizziness, headaches.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+06f05b76-7ae4-4b1a-b40d-fb27b50edae7,summarize_soap,"On examination, findings include BP reading of 150/95 mmHg. Age is 48, gender female. Patient presents with no symptoms and headaches. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of no symptoms, headaches.
+O: Exam reveals BP reading of 150/95 mmHg, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+fe50cdf0-1d90-4aae-b4ab-49d31b7dec30,summarize_soap,"On examination, findings include Urinalysis shows glycosuria. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 76, gender female. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with polyuria (frequent urination) and fatigue.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), unexplained weight loss.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+98e448d3-7a94-4f6d-b02b-54f6d8b272b9,summarize_soap,"Patient presents with fatigue and dizziness. On examination, findings include Irregularly irregular rhythm on EKG. Age is 31, gender male. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+cf75cf20-d607-4822-b3e0-1777e58c40a4,summarize_soap,"Age is 72, gender male. Patient presents with feeling flushed and feeling flushed. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Slightly elevated creatinine.",Cardiology,"S: Patient complains of no symptoms, feeling flushed.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+90f5f5bc-161a-45da-b94d-0539a41ff267,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 38, gender male. On examination, findings include Bilateral expiratory wheezes on exam. Patient presents with chest tightness and persistent cough.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+ecbc6fcf-95eb-46ed-ad50-0383baf89523,summarize_soap,"Age is 47, gender male. On examination, findings include Positive TPO antibodies. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Patient presents with dry skin and weight gain. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of constipation, cold intolerance.
+O: Exam reveals Low Free T4, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+1f405a88-4160-4a39-9b16-729ed709c61e,summarize_soap,"Age is 62, gender female. Patient presents with fatigue and fatigue. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. On examination, findings include Positive TPO antibodies. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of fatigue, dry skin.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+0291d5fb-c6f8-4215-bdce-3d0aef675042,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Peak flow at 60% of personal best. Age is 29, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with wheezing and chest tightness.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+e025fd47-2543-4572-adc4-9e534650653e,summarize_soap,"Patient presents with wheezing and persistent cough. On examination, findings include Bilateral expiratory wheezes on exam. Age is 73, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+5363c439-3624-4e54-933b-ea7cfce6491e,summarize_soap,"On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and chest tightness. Age is 72, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+440717d6-9d81-4037-a650-3894e112f446,summarize_soap,"On examination, findings include Fasting blood glucose of 180 mg/dL. Patient presents with fatigue and polyuria (frequent urination). Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 79, gender female. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), polyuria (frequent urination).
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+8d9d76c4-060b-4013-aa63-0f5ce9ef8fb5,summarize_soap,"Patient presents with constipation and constipation. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 48, gender female. On examination, findings include Low Free T4. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of cold intolerance, fatigue.
+O: Exam reveals Positive TPO antibodies, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+3cebd65b-7c56-44ec-968e-97af3c3635a6,summarize_soap,"On examination, findings include HbA1c of 8.2%. Patient presents with fatigue and polydipsia (excessive thirst). Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 40, gender male.",Endocrinology,"S: Patient complains of polyuria (frequent urination), fatigue.
+O: Exam reveals Urinalysis shows glycosuria, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+72290a04-b437-42de-b683-0a08a638d8ea,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and shortness of breath. Age is 35, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+66b192e4-8a82-499b-aedf-3c7eeb853f76,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 28, gender female. On examination, findings include O2 saturation of 94% on room air. Patient presents with shortness of breath and chest tightness.",Pulmonology,"S: Patient complains of persistent cough, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+b387ee29-39a3-4c40-96c9-debd41493f31,summarize_soap,"Patient presents with headaches and dizziness. Plan is to follow up. Diagnosis seems to be Hypertension. Age is 74, gender female. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Normal EKG.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+f6b48dfa-bffa-439a-bb32-21f7a9437c11,summarize_soap,"Age is 68, gender male. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and dizziness. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Echocardiogram shows mild atrial enlargement.",Cardiology,"S: Patient complains of fatigue, dizziness.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+b5ef4644-ffed-4d51-a5b5-238dade5e500,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Bilateral expiratory wheezes on exam. Age is 43, gender female. Patient presents with wheezing and wheezing. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+037ebe27-e4ac-436b-a839-33fad9ac2080,summarize_soap,"On examination, findings include Low Free T4. Patient presents with cold intolerance and fatigue. Age is 47, gender male. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of fatigue, cold intolerance.
+O: Exam reveals Positive TPO antibodies, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+09ddcdca-3725-4a38-a306-5655b79c0e1e,summarize_soap,"Age is 40, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and wheezing.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+722701d8-0545-4627-a07a-de0613ef647c,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with unexplained weight loss and unexplained weight loss. Age is 77, gender female. On examination, findings include Fasting blood glucose of 180 mg/dL.",Endocrinology,"S: Patient complains of fatigue, polydipsia (excessive thirst).
+O: Exam reveals Fasting blood glucose of 180 mg/dL, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+6ee31986-5d1d-441c-b92d-a284aef9fb34,summarize_soap,"Patient presents with polyuria (frequent urination) and fatigue. On examination, findings include Fasting blood glucose of 180 mg/dL. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 38, gender male.",Endocrinology,"S: Patient complains of unexplained weight loss, polyuria (frequent urination).
+O: Exam reveals Fasting blood glucose of 180 mg/dL, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+aa5fa933-66bf-42a5-9649-10f3b1cc3672,summarize_soap,"Patient presents with fatigue and fatigue. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Echocardiogram shows mild atrial enlargement. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Age is 66, gender male.",Cardiology,"S: Patient complains of palpitations, dizziness.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+6d20b6d6-d2c1-4fdf-8b5b-b8acf180dbae,summarize_soap,"Patient presents with polydipsia (excessive thirst) and polyuria (frequent urination). On examination, findings include HbA1c of 8.2%. Age is 61, gender male. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of fatigue, polyuria (frequent urination).
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+826a2375-1600-4456-86f8-b072008a463b,summarize_soap,"Age is 55, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Irregularly irregular rhythm on EKG. Patient presents with dizziness and palpitations. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of fatigue, dizziness.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+2b786935-a516-4f33-bc81-d8445ba4b7f7,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Peak flow at 60% of personal best. Age is 29, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and chest tightness.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+167148a9-adaf-4890-a40e-8ac2aa461540,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 77, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with persistent cough and wheezing. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+90af5da4-99fa-4ab0-81d4-f609bcbbbf4f,summarize_soap,"Patient presents with polyuria (frequent urination) and polydipsia (excessive thirst). Age is 45, gender male. On examination, findings include Urinalysis shows glycosuria. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of unexplained weight loss, fatigue.
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+5c9f2351-0c06-4e44-ae9f-34ea7839a351,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with shortness of breath and palpitations. Age is 74, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Echocardiogram shows mild atrial enlargement.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+c7872b1b-9754-457f-abbb-a0e81edb1211,summarize_soap,"Patient presents with dizziness and feeling flushed. On examination, findings include Normal EKG. Age is 36, gender female. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of no symptoms, dizziness.
+O: Exam reveals BP reading of 150/95 mmHg, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+6a6caf4a-9e3e-45ce-92cb-c4b601f63bff,summarize_soap,"On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with dizziness and palpitations. Age is 39, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+19dcfce2-d44d-4c65-beb0-76f0e05ec722,summarize_soap,"Patient presents with dry skin and fatigue. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 79, gender female. On examination, findings include Positive TPO antibodies.",Endocrinology,"S: Patient complains of weight gain, cold intolerance.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+dab78f25-8749-446f-8fcb-4003fdb734ff,summarize_soap,"Patient presents with polyuria (frequent urination) and polydipsia (excessive thirst). Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 69, gender male. On examination, findings include Urinalysis shows glycosuria. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of polyuria (frequent urination), fatigue.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+147d0b01-4bf2-4d1f-bb2b-4255e6f5d6df,summarize_soap,"Patient presents with shortness of breath and shortness of breath. Age is 80, gender male. On examination, findings include O2 saturation of 94% on room air. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+106acecd-4493-4502-b0eb-8b4c03629ad5,summarize_soap,"On examination, findings include Peak flow at 60% of personal best. Age is 27, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with persistent cough and chest tightness.",Pulmonology,"S: Patient complains of chest tightness, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+79c11184-7fcd-4c12-96ea-c96339518b45,summarize_soap,"On examination, findings include BP reading of 150/95 mmHg. Age is 26, gender female. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with headaches and headaches.",Cardiology,"S: Patient complains of feeling flushed, dizziness.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+53f0dbf3-9610-457f-964d-89bc51b7e234,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with shortness of breath and palpitations. On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 65, gender male.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+4cb81b17-1919-43ec-bff6-43346cda1d59,summarize_soap,"Patient presents with shortness of breath and wheezing. On examination, findings include Peak flow at 60% of personal best. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 41, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of shortness of breath, wheezing.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+6aa2e8b9-a71d-4517-a307-1e2666e55378,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam. Age is 45, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and persistent cough.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+1a89be92-0cf1-4f76-b788-cb853bff30df,summarize_soap,"Age is 70, gender female. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with unexplained weight loss and polydipsia (excessive thirst). Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include Urinalysis shows glycosuria.",Endocrinology,"S: Patient complains of fatigue, polydipsia (excessive thirst).
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+9b55e30f-66cf-4b51-8d9d-8565709a2edf,summarize_soap,"Patient presents with wheezing and persistent cough. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 77, gender male.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+dc121d32-7e08-40d1-9f6a-00bb2ad6a420,summarize_soap,"Age is 44, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Peak flow at 60% of personal best. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and wheezing.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+1da71ccf-21df-4f5c-81e0-9f823e24869c,summarize_soap,"Patient presents with persistent cough and shortness of breath. On examination, findings include Peak flow at 60% of personal best. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 42, gender male.",Pulmonology,"S: Patient complains of persistent cough, wheezing.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+24e444cb-b4a8-42c8-9bd9-17e16236eba7,summarize_soap,"On examination, findings include Normal EKG. Age is 49, gender female. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with headaches and feeling flushed.",Cardiology,"S: Patient complains of headaches, feeling flushed.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+ca85e5ee-5648-471e-9d14-99891bc68a06,summarize_soap,"Age is 38, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include O2 saturation of 94% on room air. Patient presents with chest tightness and wheezing. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+e6d5e335-73d7-40c7-9913-e4d463a9c6f3,summarize_soap,"Age is 28, gender female. On examination, findings include Peak flow at 60% of personal best. Patient presents with chest tightness and wheezing. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+aae3764e-84a7-43a5-929b-c8c22c9eaf67,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 44, gender female. On examination, findings include Bilateral expiratory wheezes on exam. Patient presents with persistent cough and shortness of breath. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+d78fd8d6-4314-48ce-842a-887f5c8830ef,summarize_soap,"On examination, findings include Peak flow at 60% of personal best. Age is 58, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and shortness of breath.",Pulmonology,"S: Patient complains of chest tightness, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+5bca2ce3-4332-4ed2-9d2b-faabf84c5522,summarize_soap,"Patient presents with wheezing and chest tightness. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 72, gender male.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+e1770548-541f-4abe-afdb-e9786dbc8f6e,summarize_soap,"Patient presents with dizziness and dizziness. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Irregularly irregular rhythm on EKG. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Age is 30, gender male.",Cardiology,"S: Patient complains of fatigue, palpitations.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+19615ade-b5bf-4eba-9ac3-5ad089c76291,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with dizziness and palpitations. On examination, findings include Echocardiogram shows mild atrial enlargement. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 78, gender female.",Cardiology,"S: Patient complains of fatigue, dizziness.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+27cf2903-43dc-4720-9903-a08b88c57021,summarize_soap,"Patient presents with polyuria (frequent urination) and fatigue. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include Urinalysis shows glycosuria. Age is 69, gender female.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+aa7f7e46-f9bf-4c1f-b8ce-b6af3ab4214a,summarize_soap,"Age is 47, gender male. On examination, findings include Slightly elevated creatinine. Patient presents with headaches and headaches. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of feeling flushed, no symptoms.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+e4d8e9ef-39f2-44cf-b102-737dfdec82ee,summarize_soap,"On examination, findings include Echocardiogram shows mild atrial enlargement. Age is 64, gender male. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with shortness of breath and shortness of breath.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+d4274a05-9897-4451-abec-152be96947f5,summarize_soap,"Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Patient presents with cold intolerance and weight gain. On examination, findings include Elevated TSH of 12.5 mIU/L. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 64, gender female.",Endocrinology,"S: Patient complains of dry skin, constipation.
+O: Exam reveals Low Free T4, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+4001d43f-77a6-485f-9510-eb3839b70a82,summarize_soap,"Patient presents with weight gain and fatigue. On examination, findings include Low Free T4. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 68, gender female.",Endocrinology,"S: Patient complains of weight gain, fatigue.
+O: Exam reveals Low Free T4, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+d356ba80-374e-4467-b0a6-dbd8084d3f13,summarize_soap,"Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Age is 27, gender female. On examination, findings include Normal EKG. Patient presents with no symptoms and feeling flushed. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of headaches, no symptoms.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+0781a502-2db2-47f3-bb6f-32c1174663a2,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with palpitations and shortness of breath. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Heart rate of 120 bpm. Age is 72, gender female.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+b631537e-7649-4d8b-86fb-96877b256f87,summarize_soap,"Age is 60, gender female. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include HbA1c of 8.2%. Patient presents with polydipsia (excessive thirst) and polydipsia (excessive thirst).",Endocrinology,"S: Patient complains of unexplained weight loss, polyuria (frequent urination).
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+cc982ab5-c1ec-48a8-9dcf-f20bf87e6cad,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. On examination, findings include Elevated TSH of 12.5 mIU/L. Age is 60, gender male. Patient presents with constipation and constipation. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of constipation, cold intolerance.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+3c343a01-1026-4def-a7a0-0238b796c5df,summarize_soap,"On examination, findings include Fasting blood glucose of 180 mg/dL. Age is 48, gender female. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with polyuria (frequent urination) and polydipsia (excessive thirst).",Endocrinology,"S: Patient complains of polyuria (frequent urination), unexplained weight loss.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+87f88f70-0c92-460b-9148-1c487b63fb10,summarize_soap,"On examination, findings include Normal EKG. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Age is 27, gender female. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with dizziness and headaches.",Cardiology,"S: Patient complains of no symptoms, dizziness.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+fb630c5d-eaae-4b46-ba66-16b9d9dd339f,summarize_soap,"Patient presents with feeling flushed and feeling flushed. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Slightly elevated creatinine. Age is 62, gender male. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of dizziness, feeling flushed.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+f803865d-564d-45e4-aea5-9413392daf14,summarize_soap,"On examination, findings include Positive TPO antibodies. Age is 74, gender female. Patient presents with weight gain and cold intolerance. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of fatigue, constipation.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+2d751285-77c4-419f-8e5d-bc891a63f721,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include O2 saturation of 94% on room air. Patient presents with chest tightness and chest tightness. Age is 48, gender male.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+a7d3e61c-a888-484c-add8-ec557f0f90ce,summarize_soap,"Age is 78, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Normal EKG. Patient presents with headaches and dizziness.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+7bbbd55e-7665-47bb-898a-42bac87bd083,summarize_soap,"On examination, findings include HbA1c of 8.2%. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with polyuria (frequent urination) and unexplained weight loss. Age is 53, gender female. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of fatigue, unexplained weight loss.
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+a177ee2f-7bb6-417f-8350-1093739edc2d,summarize_soap,"Patient presents with chest tightness and persistent cough. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Bilateral expiratory wheezes on exam. Age is 80, gender male.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+029f4813-047e-4639-8f4a-878ad0312242,summarize_soap,"Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include BP reading of 150/95 mmHg. Age is 36, gender female. Patient presents with headaches and no symptoms. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of no symptoms, headaches.
+O: Exam reveals BP reading of 150/95 mmHg, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+2c051c3e-f653-43dd-b188-0f2c92e30160,summarize_soap,"On examination, findings include Normal EKG. Patient presents with headaches and feeling flushed. Age is 78, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of feeling flushed, no symptoms.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+14c73793-d100-4bc7-b79c-94d01e55f69d,summarize_soap,"On examination, findings include Low Free T4. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 44, gender female. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Patient presents with fatigue and fatigue.",Endocrinology,"S: Patient complains of weight gain, cold intolerance.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+df0a4669-6509-4bf6-bd0c-7eb742113d8f,summarize_soap,"On examination, findings include Slightly elevated creatinine. Age is 77, gender female. Patient presents with dizziness and no symptoms. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of headaches, feeling flushed.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+5334cd09-1a28-4a02-b4cd-a62ade903fe5,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with palpitations and fatigue. Age is 79, gender female. On examination, findings include Echocardiogram shows mild atrial enlargement. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, dizziness.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+bea66615-7ffc-42ba-8f17-19b1d8dfbdc8,summarize_soap,"Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Plan is to follow up. Diagnosis seems to be Hypothyroidism. On examination, findings include Elevated TSH of 12.5 mIU/L. Patient presents with constipation and fatigue. Age is 79, gender male.",Endocrinology,"S: Patient complains of constipation, fatigue.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+049053fb-8abc-44cf-b14c-d64dddd82713,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 33, gender male. Patient presents with constipation and dry skin. On examination, findings include Positive TPO antibodies. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of cold intolerance, weight gain.
+O: Exam reveals Low Free T4, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+bd93476b-611e-448e-9c24-77958e4859e4,summarize_soap,"Age is 25, gender male. On examination, findings include Irregularly irregular rhythm on EKG. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with palpitations and dizziness.",Cardiology,"S: Patient complains of fatigue, shortness of breath.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+33eea01e-d909-41f3-97e6-701684e6fcd4,summarize_soap,"Age is 43, gender male. Patient presents with chest tightness and wheezing. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of persistent cough, shortness of breath.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+b957f641-f8f9-478b-a733-c5c3866d935c,summarize_soap,"Patient presents with shortness of breath and wheezing. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 37, gender female.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+48e0b9df-b008-4686-8f45-f41d9aeb8288,summarize_soap,"On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 57, gender female. Patient presents with persistent cough and chest tightness. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+e19f2d3f-e6be-4fd5-a474-c2a3646bd01f,summarize_soap,"Patient presents with cold intolerance and dry skin. Age is 41, gender female. On examination, findings include Positive TPO antibodies. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of weight gain, constipation.
+O: Exam reveals Positive TPO antibodies, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+d185d5b9-d25c-4cc9-8726-4a2014094cea,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include HbA1c of 8.2%. Age is 51, gender female. Patient presents with polyuria (frequent urination) and unexplained weight loss.",Endocrinology,"S: Patient complains of fatigue, unexplained weight loss.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+4d78412f-382a-4a01-b456-81c9b324c016,summarize_soap,"Age is 62, gender female. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with headaches and no symptoms. On examination, findings include Normal EKG. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of feeling flushed, headaches.
+O: Exam reveals Normal EKG, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+cb238fb4-278a-41f6-9aad-97fed8998be1,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 64, gender female. On examination, findings include Fasting blood glucose of 180 mg/dL. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with unexplained weight loss and polyuria (frequent urination).",Endocrinology,"S: Patient complains of fatigue, unexplained weight loss.
+O: Exam reveals Urinalysis shows glycosuria, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+834afdc5-02ec-4681-93c0-dc66ff855a70,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Bilateral expiratory wheezes on exam. Age is 74, gender male. Patient presents with chest tightness and persistent cough. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+9815335d-a30e-417e-8f51-003bf78fda9c,summarize_soap,"On examination, findings include Fasting blood glucose of 180 mg/dL. Patient presents with polydipsia (excessive thirst) and unexplained weight loss. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 63, gender male.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+01bb819a-5e8f-44e1-b716-be93039fbf55,summarize_soap,"Patient presents with polydipsia (excessive thirst) and unexplained weight loss. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Age is 76, gender male. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include HbA1c of 8.2%.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), polyuria (frequent urination).
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+07ff2db6-23d5-4836-8cc3-554abd3d23f0,summarize_soap,"Age is 45, gender female. On examination, findings include HbA1c of 8.2%. Patient presents with polydipsia (excessive thirst) and polyuria (frequent urination). Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), unexplained weight loss.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+2e72b934-6a91-41ec-9777-b6f3ccb8c1af,summarize_soap,"Age is 50, gender male. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with polyuria (frequent urination) and polydipsia (excessive thirst). On examination, findings include Fasting blood glucose of 180 mg/dL.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), unexplained weight loss.
+O: Exam reveals Urinalysis shows glycosuria, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+8eae6141-334f-4629-b733-e8f97da4558d,summarize_soap,"Patient presents with dizziness and shortness of breath. Age is 31, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Heart rate of 120 bpm. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, palpitations.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+79d0cb39-caa3-4ba8-b593-5eb0c7e943bb,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Patient presents with fatigue and dry skin. Age is 76, gender female. On examination, findings include Elevated TSH of 12.5 mIU/L.",Endocrinology,"S: Patient complains of weight gain, dry skin.
+O: Exam reveals Positive TPO antibodies, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+99848741-897b-43e2-8913-d730ae7e7d77,summarize_soap,"On examination, findings include Heart rate of 120 bpm. Patient presents with fatigue and palpitations. Age is 59, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of palpitations, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+cd21d4a1-bc7b-4dab-9209-ab7ad7c19b7e,summarize_soap,"On examination, findings include Urinalysis shows glycosuria. Age is 34, gender female. Patient presents with polydipsia (excessive thirst) and unexplained weight loss. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of unexplained weight loss, polyuria (frequent urination).
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+eb6ecdca-93b1-4cdb-832b-09113b03f542,summarize_soap,"Age is 35, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with headaches and no symptoms. On examination, findings include Slightly elevated creatinine. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Slightly elevated creatinine, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+2ebb1e11-ca35-41f6-b396-3ba3ed1dea92,summarize_soap,"Patient presents with feeling flushed and dizziness. Age is 25, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Slightly elevated creatinine. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of dizziness, feeling flushed.
+O: Exam reveals Normal EKG, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+7d97b77b-6b40-48fb-a07c-e565dd3ba3f8,summarize_soap,"On examination, findings include Peak flow at 60% of personal best. Age is 39, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and chest tightness.",Pulmonology,"S: Patient complains of persistent cough, wheezing.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+5be45fd7-06a4-4c90-9d2f-b50d491d9249,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with shortness of breath and shortness of breath. Age is 77, gender female. On examination, findings include Peak flow at 60% of personal best. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of persistent cough, shortness of breath.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+2d25f83d-26fc-4c43-924e-63657e6d20a6,summarize_soap,"Patient presents with headaches and dizziness. Age is 66, gender male. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Slightly elevated creatinine. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of no symptoms, headaches.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+bf3735a9-a3cd-407e-8745-dffa3f1534db,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with shortness of breath and fatigue. Age is 25, gender male. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Heart rate of 120 bpm.",Cardiology,"S: Patient complains of shortness of breath, palpitations.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+b9eff3fe-771d-45e1-8de9-8a8f87e2d130,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with unexplained weight loss and fatigue. On examination, findings include Fasting blood glucose of 180 mg/dL. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 75, gender female.",Endocrinology,"S: Patient complains of unexplained weight loss, polydipsia (excessive thirst).
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+e6c48e90-8eac-411f-9a7f-ebc7dd7daada,summarize_soap,"Age is 61, gender male. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with shortness of breath and chest tightness. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include O2 saturation of 94% on room air.",Pulmonology,"S: Patient complains of chest tightness, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+cebbeb06-9b9a-4d07-97f0-2f4552d71535,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 30, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with shortness of breath and fatigue. On examination, findings include Irregularly irregular rhythm on EKG.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+d2c5cffa-6792-444c-b563-b3991125256b,summarize_soap,"Age is 72, gender female. On examination, findings include O2 saturation of 94% on room air. Patient presents with wheezing and chest tightness. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+803c904b-cad5-451e-8c42-67ee8c42a91d,summarize_soap,"Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Normal EKG. Patient presents with feeling flushed and dizziness. Age is 30, gender male. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of headaches, feeling flushed.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+dc90c94c-c7ab-4786-84b2-925c2b1d3dd0,summarize_soap,"Patient presents with dizziness and shortness of breath. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Irregularly irregular rhythm on EKG. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 51, gender female.",Cardiology,"S: Patient complains of palpitations, dizziness.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+a4e1458f-9e31-4756-8ad8-62c73d53af6f,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include Urinalysis shows glycosuria. Age is 37, gender male. Patient presents with polydipsia (excessive thirst) and unexplained weight loss.",Endocrinology,"S: Patient complains of polyuria (frequent urination), fatigue.
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+5f79d1c8-94ec-44c8-9531-a7a12ca0098f,summarize_soap,"Patient presents with persistent cough and wheezing. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 59, gender female. On examination, findings include Peak flow at 60% of personal best. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+c0405c55-072e-40a7-9a4a-e0e04a492be3,summarize_soap,"Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Age is 28, gender male. On examination, findings include BP reading of 150/95 mmHg. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with headaches and dizziness.",Cardiology,"S: Patient complains of no symptoms, dizziness.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+e014a470-96c9-429b-8a99-3924e3aeced3,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 69, gender female. Patient presents with weight gain and dry skin. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. On examination, findings include Low Free T4.",Endocrinology,"S: Patient complains of constipation, cold intolerance.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+98853b81-ed78-4d16-afea-506376e27eae,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 33, gender female. Patient presents with dry skin and cold intolerance. On examination, findings include Positive TPO antibodies. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of cold intolerance, constipation.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+82d1dea7-62e1-4782-93dd-5b2c853681bb,summarize_soap,"On examination, findings include Irregularly irregular rhythm on EKG. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 48, gender female. Patient presents with dizziness and dizziness.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+aa8a72aa-7e31-4ccd-ac5c-d7d312aec55e,summarize_soap,"On examination, findings include HbA1c of 8.2%. Patient presents with unexplained weight loss and fatigue. Age is 44, gender male. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of polyuria (frequent urination), polydipsia (excessive thirst).
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+3fc0f320-73ea-4f8c-bbac-7487be5695f0,summarize_soap,"Patient presents with dizziness and fatigue. On examination, findings include Heart rate of 120 bpm. Age is 78, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, palpitations.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+c66ca531-e91c-477e-adde-ef28efb1a3ba,summarize_soap,"Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 64, gender male. Plan is to follow up. Diagnosis seems to be Hypothyroidism. On examination, findings include Elevated TSH of 12.5 mIU/L. Patient presents with dry skin and dry skin.",Endocrinology,"S: Patient complains of fatigue, constipation.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+3b6ce391-51e6-4b7f-81c3-41c0d91d22d7,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Age is 37, gender male. Patient presents with fatigue and fatigue. On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, palpitations.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+4bafa7bb-5e8d-49b7-9846-5c50885e56c7,summarize_soap,"On examination, findings include Urinalysis shows glycosuria. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with fatigue and unexplained weight loss. Age is 62, gender male. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes.",Endocrinology,"S: Patient complains of fatigue, polyuria (frequent urination).
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+d74e9259-0e6b-45ba-8fa6-2e91f00f3346,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and shortness of breath. Age is 40, gender male. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of persistent cough, shortness of breath.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+5e31fa71-12f9-470d-b9f3-fca581a98758,summarize_soap,"Age is 51, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with dizziness and fatigue. On examination, findings include Irregularly irregular rhythm on EKG. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of dizziness, palpitations.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+169996f0-1b83-4ac7-ae27-279659a25a33,summarize_soap,"Patient presents with shortness of breath and shortness of breath. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Peak flow at 60% of personal best. Age is 33, gender female.",Pulmonology,"S: Patient complains of chest tightness, shortness of breath.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+4d6ff52f-e30b-4f6c-a715-23314c423bba,summarize_soap,"Patient presents with wheezing and wheezing. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 36, gender male.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+2a57c6fb-a127-4442-99f4-0fc15f750e58,summarize_soap,"Age is 50, gender male. On examination, findings include Normal EKG. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with no symptoms and feeling flushed. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of no symptoms, dizziness.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+d27e49dc-5b25-44bf-8350-d6e20629772f,summarize_soap,"On examination, findings include Echocardiogram shows mild atrial enlargement. Age is 57, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with palpitations and fatigue.",Cardiology,"S: Patient complains of dizziness, fatigue.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+aa1c1693-7e5f-4183-8b00-6fdc3f3084c2,summarize_soap,"Age is 79, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Normal EKG. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with headaches and feeling flushed.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Slightly elevated creatinine, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+8ab9026b-6f6d-45b8-aad0-dcab8e6dfb40,summarize_soap,"Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Normal EKG. Age is 75, gender male. Patient presents with headaches and no symptoms. Plan is to follow up. Diagnosis seems to be Hypertension.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+291f96b0-48f6-4f72-8302-4eef054586f1,summarize_soap,"Patient presents with chest tightness and shortness of breath. On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 58, gender male.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+194a12bc-cc2e-4371-b595-485b6ae26912,summarize_soap,"Age is 65, gender female. On examination, findings include Irregularly irregular rhythm on EKG. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Patient presents with dizziness and dizziness. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+19384734-9337-48b9-8d13-edcd4b848b6e,summarize_soap,"Age is 41, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and palpitations. On examination, findings include Echocardiogram shows mild atrial enlargement.",Cardiology,"S: Patient complains of shortness of breath, palpitations.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+65b22c65-9eed-46e8-aa6d-994cf5bef6e7,summarize_soap,"On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and shortness of breath. Age is 73, gender male.",Cardiology,"S: Patient complains of shortness of breath, palpitations.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+e7c9e2ae-bbf6-4072-bf5b-84e32a493706,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypothyroidism. On examination, findings include Elevated TSH of 12.5 mIU/L. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 65, gender male. Patient presents with cold intolerance and fatigue.",Endocrinology,"S: Patient complains of fatigue, constipation.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+13489ad0-daf3-4c4a-8909-7856607185f8,summarize_soap,"Age is 63, gender male. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Plan is to follow up. Diagnosis seems to be Hypertension. On examination, findings include Normal EKG. Patient presents with feeling flushed and dizziness.",Cardiology,"S: Patient complains of dizziness, no symptoms.
+O: Exam reveals BP reading of 150/95 mmHg, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+cb2247b9-50b5-44b1-a17b-1524378e0d53,summarize_soap,"On examination, findings include Peak flow at 60% of personal best. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 46, gender female. Patient presents with persistent cough and chest tightness.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+ffa65a0a-d71f-431f-a695-8843266bd0eb,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypertension. Age is 38, gender female. Patient presents with headaches and no symptoms. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. On examination, findings include Slightly elevated creatinine.",Cardiology,"S: Patient complains of feeling flushed, headaches.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+1f1abda4-f17f-43e7-85ff-ad0e06919f13,summarize_soap,"Patient presents with wheezing and shortness of breath. On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 39, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of wheezing, shortness of breath.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+49970c28-4e2d-4794-9c9c-35b2a0b54ef4,summarize_soap,"Patient presents with constipation and cold intolerance. Age is 68, gender female. On examination, findings include Low Free T4. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of dry skin, constipation.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+d2b9f642-5f17-43af-8cd2-9e9b3845d1bf,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 52, gender male. On examination, findings include Heart rate of 120 bpm. Patient presents with palpitations and palpitations. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+9bb9ee6d-6811-4134-899c-65e6187b3ab4,summarize_soap,"On examination, findings include Heart rate of 120 bpm. Patient presents with palpitations and fatigue. Age is 34, gender female. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of shortness of breath, dizziness.
+O: Exam reveals Irregularly irregular rhythm on EKG, Heart rate of 120 bpm.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+7467e569-e10b-4264-b0bd-2c2c3d4b29b4,summarize_soap,"On examination, findings include Slightly elevated creatinine. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with dizziness and no symptoms. Age is 54, gender male.",Cardiology,"S: Patient complains of dizziness, headaches.
+O: Exam reveals BP reading of 150/95 mmHg, Normal EKG.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+6f4127ca-4977-40b7-b509-9b9fad3add1d,summarize_soap,"On examination, findings include Irregularly irregular rhythm on EKG. Patient presents with dizziness and shortness of breath. Age is 78, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of fatigue, dizziness.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+17c620ed-7ff8-4e69-bb40-1711453bd8a6,summarize_soap,"Patient presents with chest tightness and shortness of breath. On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 69, gender female.",Pulmonology,"S: Patient complains of chest tightness, persistent cough.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+29525e04-bb44-4501-af76-009157099697,summarize_soap,"Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 34, gender female. On examination, findings include Positive TPO antibodies. Patient presents with dry skin and weight gain. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of dry skin, constipation.
+O: Exam reveals Low Free T4, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+e667e3a6-bfcd-4e34-a482-7bf143798269,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include Urinalysis shows glycosuria. Patient presents with fatigue and unexplained weight loss. Age is 42, gender male.",Endocrinology,"S: Patient complains of fatigue, unexplained weight loss.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+a99496ad-cc28-444b-9b80-560fdb74ab87,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 27, gender female. Patient presents with persistent cough and shortness of breath. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+93097f33-b60f-4a09-a5e1-6f2bfb3c5745,summarize_soap,"On examination, findings include Low Free T4. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Age is 27, gender male. Patient presents with fatigue and constipation.",Endocrinology,"S: Patient complains of fatigue, dry skin.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+59f37f2a-da0a-4657-b4cb-795dcd7f8ea0,summarize_soap,"Plan is to follow up. Diagnosis seems to be Hypertension. Age is 25, gender female. On examination, findings include Normal EKG. Patient presents with feeling flushed and no symptoms. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of feeling flushed, no symptoms.
+O: Exam reveals BP reading of 150/95 mmHg, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+9e7cfed4-4634-498b-8bbf-da7ad24e5e61,summarize_soap,"Patient presents with cold intolerance and fatigue. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Plan is to follow up. Diagnosis seems to be Hypothyroidism. On examination, findings include Elevated TSH of 12.5 mIU/L. Age is 27, gender male.",Endocrinology,"S: Patient complains of dry skin, weight gain.
+O: Exam reveals Positive TPO antibodies, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+11c7ca15-3734-4426-9d01-949ad4bf2051,summarize_soap,"Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include O2 saturation of 94% on room air. Age is 58, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with shortness of breath and persistent cough.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+f4c41d39-6485-4e01-9ff2-e4d8ec43da71,summarize_soap,"Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Patient presents with dry skin and cold intolerance. On examination, findings include Low Free T4. Age is 34, gender male. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of weight gain, dry skin.
+O: Exam reveals Positive TPO antibodies, Low Free T4.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+29c0fa12-9b2a-4d3c-9f9a-ebc75c1c6eeb,summarize_soap,"Age is 25, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and dizziness. On examination, findings include Irregularly irregular rhythm on EKG. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+05ca1dae-f044-4d8d-827d-6042f36def42,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with unexplained weight loss and polyuria (frequent urination). On examination, findings include Fasting blood glucose of 180 mg/dL. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 34, gender female.",Endocrinology,"S: Patient complains of fatigue, unexplained weight loss.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+8c1da628-fee8-40d7-95c1-3dfd5f9bc455,summarize_soap,"Patient presents with wheezing and wheezing. On examination, findings include O2 saturation of 94% on room air. Age is 68, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of chest tightness, persistent cough.
+O: Exam reveals O2 saturation of 94% on room air, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+13661d8d-0eb0-4ebf-8f8c-d5182a53dfcf,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with unexplained weight loss and polyuria (frequent urination). Age is 62, gender female. On examination, findings include Fasting blood glucose of 180 mg/dL.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), unexplained weight loss.
+O: Exam reveals Urinalysis shows glycosuria, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+f49478ba-62c0-44d5-b02c-43ff7f37c2e7,summarize_soap,"Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Age is 50, gender male. Patient presents with polyuria (frequent urination) and polydipsia (excessive thirst). Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include HbA1c of 8.2%.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals HbA1c of 8.2%, Fasting blood glucose of 180 mg/dL.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+f0ce0b33-cc2f-48a3-abfb-8168f520ba89,summarize_soap,"Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. On examination, findings include Fasting blood glucose of 180 mg/dL. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. Patient presents with polyuria (frequent urination) and unexplained weight loss. Age is 66, gender male.",Endocrinology,"S: Patient complains of unexplained weight loss, polyuria (frequent urination).
+O: Exam reveals Fasting blood glucose of 180 mg/dL, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+579916c0-3954-4fd0-91ba-ab71be0de10f,summarize_soap,"Age is 73, gender female. On examination, findings include Irregularly irregular rhythm on EKG. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and shortness of breath. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+a0fee603-80c5-4330-abaa-7a27db571dbf,summarize_soap,"Age is 61, gender female. On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and wheezing.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+dd2d5e60-b4ee-4b90-9eb8-81aaf0f5bccb,summarize_soap,"Patient presents with persistent cough and wheezing. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 63, gender female.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+af51dc88-2e5c-4df4-959d-34a0f127ca2e,summarize_soap,"Patient presents with chest tightness and chest tightness. Age is 77, gender male. On examination, findings include O2 saturation of 94% on room air. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of shortness of breath, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+8274ff06-eaed-476e-bf73-509912611469,summarize_soap,"On examination, findings include Bilateral expiratory wheezes on exam. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with persistent cough and chest tightness. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 52, gender female.",Pulmonology,"S: Patient complains of persistent cough, wheezing.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+bcd1ee05-1ade-4de4-b138-3c86111d9b9e,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. On examination, findings include O2 saturation of 94% on room air. Age is 61, gender male. Patient presents with chest tightness and shortness of breath. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+d34fbcb4-adc7-48eb-9cab-ede1c4bf7670,summarize_soap,"Age is 68, gender female. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with dizziness and dizziness. On examination, findings include Irregularly irregular rhythm on EKG.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+81dd9b64-d41d-4ad3-aab8-3910789509ce,summarize_soap,"On examination, findings include Slightly elevated creatinine. Age is 60, gender male. Plan is to follow up. Diagnosis seems to be Hypertension. Patient presents with no symptoms and headaches. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month.",Cardiology,"S: Patient complains of no symptoms, dizziness.
+O: Exam reveals Normal EKG, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+531f7239-e842-4852-921b-b87723ca06cb,summarize_soap,"On examination, findings include O2 saturation of 94% on room air. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and chest tightness. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 61, gender male.",Pulmonology,"S: Patient complains of persistent cough, chest tightness.
+O: Exam reveals Bilateral expiratory wheezes on exam, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+29a3837d-87b8-4a9c-8afb-1e17b46c1ecf,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with palpitations and shortness of breath. Age is 47, gender male. On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation.",Cardiology,"S: Patient complains of dizziness, shortness of breath.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+19bca753-b39b-4fa0-a9d9-9baff2118d90,summarize_soap,"Patient presents with constipation and dry skin. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. Age is 51, gender female. Plan is to follow up. Diagnosis seems to be Hypothyroidism. On examination, findings include Positive TPO antibodies.",Endocrinology,"S: Patient complains of constipation, dry skin.
+O: Exam reveals Positive TPO antibodies, Elevated TSH of 12.5 mIU/L.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+fa37fd1b-ca91-4425-9a02-7145c968ad0a,summarize_soap,"Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. Patient presents with fatigue and shortness of breath. Age is 52, gender female. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. On examination, findings include Heart rate of 120 bpm.",Cardiology,"S: Patient complains of fatigue, palpitations.
+O: Exam reveals Heart rate of 120 bpm, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+a4d4cca2-b7ab-4825-97cb-80e9ec39cdc8,summarize_soap,"On examination, findings include Bilateral expiratory wheezes on exam. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with wheezing and chest tightness. Age is 73, gender male. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation.",Pulmonology,"S: Patient complains of chest tightness, wheezing.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+47fb29c0-8e2b-4348-bc5a-16fa39bbd145,summarize_soap,"On examination, findings include O2 saturation of 94% on room air. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 79, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with chest tightness and persistent cough.",Pulmonology,"S: Patient complains of chest tightness, shortness of breath.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+410fb0e4-e810-46e6-b786-81d6e5b444e8,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Age is 70, gender female. On examination, findings include Bilateral expiratory wheezes on exam. Patient presents with wheezing and wheezing.",Pulmonology,"S: Patient complains of wheezing, persistent cough.
+O: Exam reveals O2 saturation of 94% on room air, Peak flow at 60% of personal best.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+be61c756-f624-4bb3-9bac-c95d859ef063,summarize_soap,"Patient presents with dizziness and dizziness. On examination, findings include Normal EKG. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Age is 31, gender female.",Cardiology,"S: Patient complains of no symptoms, feeling flushed.
+O: Exam reveals Normal EKG, Slightly elevated creatinine.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+52ef5033-0e9e-41fe-8b99-67b17e09fe19,summarize_soap,"Patient presents with fatigue and palpitations. On examination, findings include Heart rate of 120 bpm. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Age is 69, gender female. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of palpitations, dizziness.
+O: Exam reveals Echocardiogram shows mild atrial enlargement, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+d3e24a6f-f97e-4da2-b493-b514d0df73f1,summarize_soap,"Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up. On examination, findings include Irregularly irregular rhythm on EKG. Patient presents with dizziness and shortness of breath. Age is 77, gender male.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Irregularly irregular rhythm on EKG, Echocardiogram shows mild atrial enlargement.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+115db1de-bd64-486a-afcd-71310054a5a5,summarize_soap,"Patient presents with wheezing and persistent cough. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include O2 saturation of 94% on room air. Age is 50, gender male.",Pulmonology,"S: Patient complains of shortness of breath, persistent cough.
+O: Exam reveals Bilateral expiratory wheezes on exam, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+a3702237-0c68-41af-a883-118289dc771e,summarize_soap,"Patient presents with weight gain and fatigue. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing. On examination, findings include Elevated TSH of 12.5 mIU/L. Age is 63, gender male. Plan is to follow up. Diagnosis seems to be Hypothyroidism.",Endocrinology,"S: Patient complains of weight gain, cold intolerance.
+O: Exam reveals Elevated TSH of 12.5 mIU/L, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+58ebdea4-44d3-4186-9ead-565bd5d8258a,summarize_soap,"On examination, findings include Slightly elevated creatinine. Plan is to follow up. Diagnosis seems to be Hypertension. Discussed starting the patient on start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month. Patient presents with dizziness and headaches. Age is 36, gender male.",Cardiology,"S: Patient complains of headaches, dizziness.
+O: Exam reveals Normal EKG, BP reading of 150/95 mmHg.
+A: Hypertension.
+P: start Lisinopril 10mg daily, recommend low-sodium diet and exercise, follow-up in 1 month."
+167f070c-e5e0-4908-bf5a-3c1f99bb8b00,summarize_soap,"Age is 48, gender female. On examination, findings include Low Free T4. Plan is to follow up. Diagnosis seems to be Hypothyroidism. Patient presents with constipation and cold intolerance. Discussed starting the patient on start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing.",Endocrinology,"S: Patient complains of dry skin, constipation.
+O: Exam reveals Low Free T4, Positive TPO antibodies.
+A: Hypothyroidism.
+P: start Levothyroxine 50 mcg daily, recheck TSH in 6 weeks, counsel on medication timing."
+a69e13c5-08e1-4295-93c0-7f5a7d4acb0d,summarize_soap,"On examination, findings include HbA1c of 8.2%. Age is 62, gender male. Patient presents with polyuria (frequent urination) and unexplained weight loss. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist.",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), fatigue.
+O: Exam reveals Fasting blood glucose of 180 mg/dL, HbA1c of 8.2%.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+c65136b9-0885-48f7-b6c7-edd9b1e354f9,summarize_soap,"Age is 52, gender female. Discussed starting the patient on initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist. On examination, findings include HbA1c of 8.2%. Plan is to follow up. Diagnosis seems to be Type 2 Diabetes. Patient presents with polyuria (frequent urination) and polyuria (frequent urination).",Endocrinology,"S: Patient complains of polydipsia (excessive thirst), polyuria (frequent urination).
+O: Exam reveals HbA1c of 8.2%, Urinalysis shows glycosuria.
+A: Type 2 Diabetes.
+P: initiate Metformin 500mg twice daily, provide diabetes education, refer to nutritionist."
+b3ce9262-170c-4415-b63b-0d6d1ef984cf,summarize_soap,"Patient presents with dizziness and shortness of breath. On examination, findings include Heart rate of 120 bpm. Age is 49, gender male. Plan is to follow up. Diagnosis seems to be Atrial Fibrillation. Discussed starting the patient on begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up.",Cardiology,"S: Patient complains of palpitations, fatigue.
+O: Exam reveals Heart rate of 120 bpm, Irregularly irregular rhythm on EKG.
+A: Atrial Fibrillation.
+P: begin Metoprolol for rate control, start Eliquis for anticoagulation, schedule cardiology follow-up."
+4fb8d9dc-61a3-4c5c-b049-03bd353aad23,summarize_soap,"Age is 64, gender female. Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Patient presents with persistent cough and chest tightness. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. On examination, findings include Bilateral expiratory wheezes on exam.",Pulmonology,"S: Patient complains of shortness of breath, wheezing.
+O: Exam reveals Peak flow at 60% of personal best, O2 saturation of 94% on room air.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
+9b668c2c-810e-4d8b-89de-920dd9373ca9,summarize_soap,"Plan is to follow up. Diagnosis seems to be Asthma Exacerbation. Age is 26, gender female. Discussed starting the patient on administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique. Patient presents with chest tightness and shortness of breath. On examination, findings include Peak flow at 60% of personal best.",Pulmonology,"S: Patient complains of wheezing, chest tightness.
+O: Exam reveals Peak flow at 60% of personal best, Bilateral expiratory wheezes on exam.
+A: Asthma Exacerbation.
+P: administer nebulized Albuterol, prescribe a short course of oral Prednisone, reinforce inhaler technique."
